@@ -4,7 +4,6 @@
   "description": "Uses sharp to get dominant color of image",
   "main": "src/index.js",
   "bin": {
-    "@univers-agency/dominant-color": "bin/dominant-color",
     "dominant-color": "bin/dominant-color"
   },
   "publishConfig": {
