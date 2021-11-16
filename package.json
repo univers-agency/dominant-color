@@ -1,10 +1,9 @@
 {
   "name": "@univers-agency/dominant-color",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Uses sharp to get dominant color of image",
   "main": "src/index.js",
   "bin": {
-    "@univers-agency/dominant-color": "bin/dominant-color",
     "dominant-color": "bin/dominant-color"
   },
   "publishConfig": {
@@ -21,6 +20,6 @@
   "license": "MIT",
   "dependencies": {
     "esm": "^3.2.25",
-    "sharp": "^0.27.1"
+    "sharp": "^0.29.2"
   }
 }
