@@ -1,6 +1,6 @@
 {
   "name": "@univers-agency/dominant-color",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Uses sharp to get dominant color of image",
   "main": "src/index.js",
   "bin": {
