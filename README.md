@@ -1,4 +1,4 @@
-Returns the image's dominant color.
+Returns the image's dominant color if the image is opaque. Otherwise returns 'transparent'
 
 ## Usage
 
